@@ -1,1 +1,1 @@
-Refracted semantic code to meet accessible standards ^_^
+Refracted semantic code to meet accessibility standards ^_^
