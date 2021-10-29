@@ -1,0 +1,1 @@
+Refracted semantic code to meet accessible standards ^_^
